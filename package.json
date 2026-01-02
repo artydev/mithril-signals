@@ -1,5 +1,5 @@
 {
-  "name": "mithril-signals",
+  "name": "@artydev/mithril-signals",
   "version": "1.0.0",
   "description": "Fine-grained reactivity for Mithril.js",
   "type": "module",
