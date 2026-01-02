@@ -1,4 +1,4 @@
-# Mithril-Signals
+# Mithril-Signals.
 
 A tiny (~1KB) reactive signal system for Mithril.js. 
 
